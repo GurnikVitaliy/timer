@@ -1,28 +1,4 @@
-/* #main {
-    width: 700px;
-    padding: 40px;
-    margin-bottom: 10px;
-    display: flex;
-    justify-content: space-between;
-}
 
-
-img {
-    width: 200px;
-    height: 200px;
-}
-
-.slider-line {
-    display: flex;
-    width: 200px;
-    display: none;
-    border: 1px solid #000;
-}
-
-.active {
-    display: block;
-} 
-  */
 #box {
     width: auto;
     padding: 40px;
@@ -39,7 +15,7 @@ img {
     align-items: center;
     flex-direction: column;
     color: gold;
-    margin-top: 10px;
+    margin-top: 50px;
 }
 
 span {color: red;}
